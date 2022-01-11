@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: `https://8000-tomato-fox-jvtkxm6s.ws-eu25.gitpod.io`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://geninpro.ru`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
